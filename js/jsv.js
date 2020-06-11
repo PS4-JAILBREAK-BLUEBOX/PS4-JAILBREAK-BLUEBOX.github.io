@@ -51,7 +51,7 @@ $(document).ready(function(){
 				time++;
 			}else
 				if(time===2){
-				$("#textInfo").text("t.me/PsFourHax");
+				$("#textInfo").text("Private Version");
 				$("#textInfo").addClass("animated slideInDown");
 				time=0;
 			}
