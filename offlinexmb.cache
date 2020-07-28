@@ -1,6 +1,6 @@
 CACHE MANIFEST 
-# Self Host v2.7.3
-# Sat 01/06/2020-00:14:27.00  
+# Self Host v2.8
+# Sat 28/07/2020-00:18:03.00  
 
 index.html
 css\animate.min.css
@@ -24,7 +24,6 @@ images\ftp.png
 images\ftprw.png
 images\gta_v_ap_ii_intense.png
 images\gta_v_lotus104.png
-images\hen15.png
 images\hen16.png
 images\hen17.png
 images\hen17l.png
@@ -46,6 +45,7 @@ images\rif.png
 images\save_backup.png
 images\save_mounter.png
 images\save_restore.png
+images\todex.png
 images\trp_backup.png
 images\trp_restore.png
 images\unblocker.png
@@ -79,8 +79,6 @@ payloads\gta_v_ap_ii_intense.bin
 payloads\gta_v_ap_ii_intense.html
 payloads\gta_v_lotus104.bin
 payloads\gta_v_lotus104.html
-payloads\Hen15.bin
-payloads\Hen15.html
 payloads\Hen16.bin
 payloads\Hen17.bin
 payloads\Hen18.bin
@@ -118,6 +116,8 @@ payloads\Style_00.css
 payloads\Style_01.css
 payloads\Style_02.css
 payloads\Style_03.css
+payloads\todex.bin
+payloads\todex.html
 payloads\Trophy_Backup.bin
 payloads\Trophy_Restore.bin
 payloads\trp_backup.html

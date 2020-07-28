@@ -256,10 +256,6 @@ mark {padding-left: 10px; padding-right: 10px; color:white; background-color: rg
 	font-weight: bold;
 }
 
-.hen15{
-	background-image: url("../images/hen15.png");
-}
-
 .hen16{
 	background-image: url("../images/hen16.png");
 }
@@ -354,6 +350,10 @@ mark {padding-left: 10px; padding-right: 10px; color:white; background-color: rg
 
 .remoteplay{
 	background-image: url("../images/remoteplay.png");
+}
+
+.todex{
+	background-image: url("../images/todex.png");
 }
 
 .rif{
